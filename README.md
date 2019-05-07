@@ -17,9 +17,9 @@ sends the text to TTS for speaking the text aloud to the user. This application 
 handily in this digital world.
 
 ## Tools and Technologies:
-Android Studio 3.2
-Android Native Development Kit (NDK)
-Tesseract OCR library 4.0.0
-Dhvani TTS System
-Python Flask
-RESTful Web Services
+- Android Studio 3.2
+- Android Native Development Kit (NDK)
+- Tesseract OCR library 4.0.0
+- Dhvani TTS System
+- Python Flask
+- RESTful Web Services
